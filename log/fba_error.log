@@ -1,0 +1,16 @@
+2024-01-18 15:11:31.768 | ERROR    | __main__:<module>:35 - ❌ FastAPI start filed: <class 'OSError'> returned a result with an exception set
+2024-01-18 17:09:52.171 | ERROR    | app.common.redis:is_connected:32 - ❌ 数据库 redis 连接超时
+2024-01-18 17:21:17.375 | ERROR    | __main__:<module>:35 - ❌ FastAPI start filed: <class 'OSError'> returned a result with an exception set
+2024-01-18 17:23:35.144 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 14:27:57.033 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 14:28:43.229 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 14:28:50.138 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 14:29:08.773 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:04:04.554 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:04:30.330 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:10:09.719 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:10:13.981 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:11:06.946 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:11:10.786 | ERROR    | app.utils.request_parse:get_location_offline:74 - 离线获取 ip 地址属地失败，错误信息：expected str, bytes or os.PathLike object, not NoneType
+2024-01-19 16:17:41.579 | ERROR    | __main__:<module>:35 - ❌ FastAPI start filed: <class 'OSError'> returned a result with an exception set
+2024-01-19 17:23:18.912 | ERROR    | __main__:<module>:40 - ❌ FastAPI start filed: <class 'OSError'> returned a result with an exception set
